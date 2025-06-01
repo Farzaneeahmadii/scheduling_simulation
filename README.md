@@ -66,7 +66,7 @@ It calculates and prints evaluation metrics such as:
 
 - Average Turnaround Time: 17.5
 - Average Waiting Time   : 11.5
-- Average Response Time  : 3.75
+- Average Response Time  : 3
 
 
 ---
