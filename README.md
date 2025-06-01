@@ -60,9 +60,9 @@ It calculates and prints evaluation metrics such as:
 |process       | AT | BT | CT | TAT | WT | RT |
 |--------------|----|----|----|-----|----|----|
 |  p1          | 0  | 6  | 15 | 15  | 9  | 0  |
-|  p2          | 1  | 4  | 17 | 16  | 12 | 3  |
-|  p3          | 2  | 9  | 24 | 22  | 13 | 6  |
-|  p4          | 3  | 5  | 20 | 17  | 12 | 6  |
+|  p2          | 1  | 4  | 16 | 15  | 11 | 2  |
+|  p3          | 2  | 9  | 24 | 22  | 13 | 4  |
+|  p4          | 3  | 5  | 21 | 18  | 13 | 6  |
 
 - Average Turnaround Time: 17.5
 - Average Waiting Time   : 11.5
