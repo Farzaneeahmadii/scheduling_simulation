@@ -1,4 +1,4 @@
-# 🖥️ CPU Scheduling Simulation
+# CPU Scheduling Simulation
 
 This project simulates three fundamental CPU scheduling algorithms:
 
@@ -71,7 +71,7 @@ It calculates and prints evaluation metrics such as:
 
 ---
 
-## 🛠️ How to Compile
+## How to Compile
 
 You can compile the code using `gcc`:
 
