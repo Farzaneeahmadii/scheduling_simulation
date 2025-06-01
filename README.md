@@ -13,12 +13,12 @@ It calculates and prints evaluation metrics such as:
 - **Average Response Time**
 
 ---
-| File Name         | Description                              |
+|process       | AT | BT | CT | TAT | WT | RT |
 |------------------|------------------------------------------|
-| `cpu_scheduling.c` | Main C program with all scheduling logic |
-| `sample_input.txt`| Example input to test the program        |
-| `sample_output.txt`| Sample output for the input              |
-| `run_demo.sh`     | Shell script to compile and run easily   |
+| p1| Main C program with all scheduling logic |
+| p2| Example input to test the program        |
+| p3 | Sample output for the input              |
+| p4 | Shell script to compile and run easily   |
 
 ## sample input
  - 4
