@@ -44,10 +44,10 @@ It calculates and prints evaluation metrics such as:
 
 |process       | AT | BT | CT | TAT | WT | RT |
 |--------------|----|----|----|-----|----|----|
-| 'p1'         | 0  | 6  | 6  | 6   | 0  | 0  |
-| 'p2'         | 1  | 4  | 10 | 9   | 5  | 5  |
-| 'p3'         | 3  | 5  | 15 | 12  | 7  | 7  |
-| 'p4'         | 2  | 9  | 24 | 22  | 13 | 13 |
+|  p1          | 0  | 6  | 6  | 6   | 0  | 0  |
+|  p2          | 1  | 4  | 10 | 9   | 5  | 5  |
+|  p3          | 3  | 5  | 15 | 12  | 7  | 7  |
+|  p4          | 2  | 9  | 24 | 22  | 13 | 13 |
 
 - Average Turnaround Time: 12.25
 - Average Waiting Time   : 6.25
@@ -59,10 +59,10 @@ It calculates and prints evaluation metrics such as:
 
 |process       | AT | BT | CT | TAT | WT | RT |
 |--------------|----|----|----|-----|----|----|
-| 'p1'         | 0  | 6  | 15 | 15  | 9  | 0  |
-| 'p2'         | 1  | 4  | 17 | 16  | 12 | 3  |
-| 'p3'         | 2  | 9  | 24 | 22  | 13 | 6  |
-| 'p4'         | 3  | 5  | 20 | 17  | 12 | 6  |
+|  p1          | 0  | 6  | 15 | 15  | 9  | 0  |
+|  p2          | 1  | 4  | 17 | 16  | 12 | 3  |
+|  p3          | 2  | 9  | 24 | 22  | 13 | 6  |
+|  p4          | 3  | 5  | 20 | 17  | 12 | 6  |
 
 - Average Turnaround Time: 17.5
 - Average Waiting Time   : 11.5
