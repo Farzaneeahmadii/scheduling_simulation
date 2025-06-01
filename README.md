@@ -24,7 +24,7 @@ It calculates and prints evaluation metrics such as:
  - this works for all 3 algorithms
 
 ## sample output
-- ===== FCFS Scheduling =====
+===== FCFS Scheduling =====
 - Order of execution: P1 P2 P3 P4
 
 - Process   AT   BT   CT   TAT  WT   RT
@@ -38,7 +38,7 @@ It calculates and prints evaluation metrics such as:
 - Average Response Time  : 7.25
 
 
-- ===== SJF Scheduling =====
+===== SJF Scheduling =====
 - Order of execution: P1 P2 P4 P3
 
 - Process   AT   BT   CT   TAT  WT   RT
@@ -52,7 +52,7 @@ It calculates and prints evaluation metrics such as:
 - Average Response Time  : 6.25
 
 
-- ===== Round Robin Scheduling (Quantum = 3) =====
+===== Round Robin Scheduling (Quantum = 3) =====
 - Order of execution: P1 P2 P3 P4 P1 P2 P3 P4 P3
 
 - Process   AT   BT   CT   TAT  WT   RT
