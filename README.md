@@ -14,11 +14,11 @@ It calculates and prints evaluation metrics such as:
 
 ---
 |process       | AT | BT | CT | TAT | WT | RT |
-|------------------|------------------------------------------|
-| p1| Main C program with all scheduling logic |
-| p2| Example input to test the program        |
-| p3 | Sample output for the input              |
-| p4 | Shell script to compile and run easily   |
+|--------------|----|----|----|-----|----|----|
+| 'p1'         | 0  | 6  | 6  | 6   | 0  | 0  |
+| 'p2'         | 0  | 6  | 6  | 6   | 0  | 0  |
+| 'p3'         | 0  | 6  | 6  | 6   | 0  | 0  |
+| 'p4'         | 0  | 6  | 6  | 6   | 0  | 0  |
 
 ## sample input
  - 4
