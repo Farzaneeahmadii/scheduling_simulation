@@ -16,9 +16,9 @@ It calculates and prints evaluation metrics such as:
 |process       | AT | BT | CT | TAT | WT | RT |
 |--------------|----|----|----|-----|----|----|
 | 'p1'         | 0  | 6  | 6  | 6   | 0  | 0  |
-| 'p2'         | 0  | 6  | 6  | 6   | 0  | 0  |
-| 'p3'         | 0  | 6  | 6  | 6   | 0  | 0  |
-| 'p4'         | 0  | 6  | 6  | 6   | 0  | 0  |
+| 'p2'         | 1  | 4  | 10 | 9   | 5  | 5  |
+| 'p3'         | 2  | 9  | 19 | 17  | 8  | 8  |
+| 'p4'         | 3  | 5  | 24 | 21  | 16 | 16 |
 
 ## sample input
  - 4
@@ -34,11 +34,12 @@ It calculates and prints evaluation metrics such as:
 ===== FCFS Scheduling =====
 - Order of execution: P1 P2 P3 P4
 
-- Process   AT   BT   CT   TAT  WT   RT
-- P1        0    6    6    6    0    0
-- P2        1    4    10   9    5    5
-- P3        2    9    19   17   8    8
-- P4        3    5    24   21   16   16
+|process       | AT | BT | CT | TAT | WT | RT |
+|--------------|----|----|----|-----|----|----|
+| 'p1'         | 0  | 6  | 6  | 6   | 0  | 0  |
+| 'p2'         | 1  | 4  | 10 | 9   | 5  | 5  |
+| 'p3'         | 2  | 9  | 19 | 17  | 8  | 8  |
+| 'p4'         | 3  | 5  | 24 | 21  | 16 | 16 |
 
 - Average Turnaround Time: 13.25
 - Average Waiting Time   : 7.25
