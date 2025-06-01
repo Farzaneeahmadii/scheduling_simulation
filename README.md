@@ -15,12 +15,12 @@ It calculates and prints evaluation metrics such as:
 ---
 
 ## sample input
-4
-P1 0 6
-P2 1 4
-P3 2 9
-P4 3 5
-3  --> quantom time
+- 4
+- P1 0 6
+- P2 1 4
+- P3 2 9
+- P4 3 5
+- 3  --> quantom time
 
 this works for all 3 algorithms
 
